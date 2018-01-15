@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Cat",
+    "image": "https://www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-cat-free.png"
+   },
+  {
+    "id": 2,
+    "name": "Dog",
+    "image": "https://www.sportekevents.com/wp-content/uploads/2017/11/cute-dog-clipart-cute-dog-clip-art-clip-art-library-free-download.png"
+  },
+  {
+    "id": 3,
+    "name": "Fish",
+    "image": "http://hddfhm.com/images/animated-clipart-fish-free-2.png"
+   },
+  {
+    "id": 4,
+    "name": "Pig",
+    "image": "https://thumbs.dreamstime.com/b/cute-pig-cartoon-illustration-isolated-white-55136889.jpg"
+   },
+  {
+    "id": 5,
+    "name": "Otter",
+    "image": "http://moziru.com/images/otter-clipart-face-10.png"
+   },
+  {
+    "id": 6,
+    "name": "Cow",
+    "image": "https://openclipart.org/image/2400px/svg_to_png/280853/cyberscooty-cow.png"
+   },
+  {
+    "id": 7,
+    "name": "Giraffe",
+    "image": "http://cliparting.com/wp-content/uploads/2016/09/Image-of-baby-giraffe-clipart-7-giraffe-clip-art-giraffe-2.png"
+   },
+  {
+    "id": 8,
+    "name": "Monkey",
+    "image": "https://ih0.redbubble.net/image.421616874.5321/flat,800x800,070,f.jpg"
+   },
+  {
+    "id": 9,
+    "name": "Bird",
+    "image": "http://moziru.com/images/songbird-clipart-cartoon-bird-20.png"
+   },
+  {
+    "id": 10,
+    "name": "Bear",
+    "image": "https://i.pinimg.com/736x/5f/c6/fd/5fc6fd3d899aa325b7a26eb12a38282c.jpg"
+   },
+  {
+    "id": 11,
+    "name": "Zebra",
+    "image": "https://thumbs.dreamstime.com/b/zebra-cartoon-mighty-cute-adorable-36187626.jpg"
+   },
+  {
+    "id": 12,
+    "name": "Turtle",
+    "image": "http://moziru.com/images/turtle-clipart-cartoon-1.gif"
+   }
+]

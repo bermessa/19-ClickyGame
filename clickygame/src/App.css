@@ -1,0 +1,15 @@
+#root,
+html {
+    background-color: black;
+    text-align: center;
+}
+
+.jumbotron {
+    margin-top: 35px;
+}
+
+.scoreBox {
+    border: 1px solid black;
+    margin: 0px 350px 0px 350px;
+}
+
